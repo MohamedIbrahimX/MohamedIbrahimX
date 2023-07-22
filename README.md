@@ -86,40 +86,40 @@
     <p align="center">
     <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> <img
             src="https://www.computerhope.com/jargon/g/google-sheets.png"
-            alt="bootstrap" width="40" height="40" /> </a>
+            alt="Google Sheet" width="40" height="40" /> </a>
     <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img
-            src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" alt="c" width="40"
+            src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" alt="Trello" width="40"
             height="40" /> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img
             src="https://salesdorado.com/wp-content/uploads/2022/06/Jira-Logo.png"
-            alt="css3" width="40" height="40" /> </a>
+            alt="Jira" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"
             height="40" /> </a>
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://cutt.ly/AwpMgaNW" alt="dart" width="40" height="40" /> </a>
+            src="https://cutt.ly/AwpMgaNW" alt="Selenium" width="40" height="40" /> </a>
     <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img
             src="https://miro.medium.com/v2/resize:fit:1200/1*4BHz11q6OIX4z8FqtZjjSg.png"
-            alt="docker" width="40" height="40" /> </a>
+            alt="TestNG" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"
             width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
+            alt="MongoDB" width="40" height="40" /> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
+            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Mssql" width="40"
             height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
+            alt="Mysql" width="40" height="40" /> </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a>
+            alt="Photoshop" width="40" height="40" /> </a>
     <a href="https://www.adobe.com/eg_ar/products/premiere.html" target="_blank" rel="noreferrer"> <img
-            src="https://comgrap.store/wp-content/uploads/2020/09/adobe-premiere-pro-cc-1710.webp" alt="postman" width="40"
+            src="https://comgrap.store/wp-content/uploads/2020/09/adobe-premiere-pro-cc-1710.webp" alt="Adobe Premiere" width="40"
             height="40" /> </a>
     </p>
   </samp>
