@@ -96,8 +96,7 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"
             height="40" /> </a>
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://cutt.ly/AwpMgaNW" alt="Selenium" width="40" height="40" /> </a>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img            src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="40" height="40" /> </a>
     <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img
             src="https://miro.medium.com/v2/resize:fit:1200/1*4BHz11q6OIX4z8FqtZjjSg.png"
             alt="TestNG" width="40" height="40" /> </a>
