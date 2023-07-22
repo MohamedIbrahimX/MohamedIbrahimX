@@ -25,7 +25,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedIbrahimX&label=Profile%20views&color=blue&style=for-the-badge" alt="MohamedIbrahimX" /> </p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmoataz&theme=darkhub" alt="MohamedIbrhimX" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohamedIbrahimX&theme=darkhub" alt="MohamedIbrhimX" /></a> </p>
 
   <p align="left">
     <img align="center"
