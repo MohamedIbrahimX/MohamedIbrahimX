@@ -32,7 +32,7 @@
          src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif"
          alt="Mohamed Ibrahim - Resume"
          width="25px"/>Know more about my experience
-    <a href="https://cutt.ly/MwpMzUvM" target="_blank">Mohamed Ibrahim Resume</a>
+    <a href="https://cutt.ly/ywd9jMZK" target="_blank">Mohamed Ibrahim Resume</a>
   </p>
  </samp>
 </div>
